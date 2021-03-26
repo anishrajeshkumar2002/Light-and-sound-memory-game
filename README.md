@@ -7,6 +7,7 @@ Submitted by: Anish Rajeshkumar
 Time spent: 10 hours spent in total
 
 Link to project: https://elated-zigzag-lunge.glitch.me/
+(If you hear no sound, try reloading the page and try again)
 
 ## Required Functionality
 
