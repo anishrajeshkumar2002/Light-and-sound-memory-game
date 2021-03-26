@@ -6,7 +6,7 @@ Submitted by: Anish Rajeshkumar
 
 Time spent: 10 hours spent in total
 
-Link to project: https://glitch.com/edit/#!/elated-zigzag-lunge
+Link to project: https://elated-zigzag-lunge.glitch.me/
 
 ## Required Functionality
 
